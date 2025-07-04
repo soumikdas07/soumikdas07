@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Soumik Das
 
-<!--
-**soumikdas07/soumikdas07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a BTech Computer Science student passionate about **Cybersecurity**, **Python scripting**, and building real-world tools that solve practical problems.
 
-Here are some ideas to get you started:
+🛠️ What I Know:
+- **Languages:** Python, C++, C
+- **Skills:** Socket programming, multithreading, cybersecurity fundamentals
+- **Tools:** Scapy, Nmap, Git, Command Line, Wireshark
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Currently:
+- Preparing for [StatusCode 2.0](https://statuscode-2.devfolio.co/)
+- Exploring packet sniffing and network-level attack detection
+- Learning by building real tools and publishing them here
+
+📫 Connect with me:
+- GitHub: [@soumikdas07](https://github.com/soumikdas07)
+- LinkedIn: (https://www.linkedin.com/in/soumik-das-sd07/)
+
+---
+
+> “I don’t just read about concepts — I build tools to understand them.”
